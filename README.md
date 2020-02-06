@@ -1,2 +1,2 @@
-# Poject-Euler
+# Project-Euler
 Soluciones a Project-Euler
