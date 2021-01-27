@@ -8,4 +8,4 @@ I will start with the easy ones and gradually try more difficult problems.
 
 ## Usage
 
-The files in this repository are jupyter notebooks with 5 solutions to Project Euler problems. 
+The files in this repository are jupyter notebooks, each with 5 solutions to Project Euler problems. 
